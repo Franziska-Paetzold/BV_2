@@ -16,6 +16,7 @@ public class Perspective extends JPanel {
 	private static final long serialVersionUID = 1L;
 	private static final String author = "<Jacky Lai, Franziska Paetzold>"; // TODO: type in your
 														// name here
+	//test
 	private static final String initialFilename = "59009_512.jpg";
 	private static final File openPath = new File(".");
 	private static final int maxWidth = 920;
